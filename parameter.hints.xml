@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="retrofit2.http.Query(value,encoded)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_PROPERTY_HINT" value="true" />
+  </component>
+</application>

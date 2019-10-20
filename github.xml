@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="1b39b731-a99c-45a4-b9f3-c3651e240428" name="realityexpander">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="AUTH_TYPE" value="TOKEN" />
+  </component>
+</application>
