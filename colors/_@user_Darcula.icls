@@ -4,7 +4,7 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-20T15:48:32</property>
+    <property name="modified">2019-10-24T12:45:36</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -15,6 +15,13 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="344134" />
+        <option name="EFFECT_COLOR" value="b5b700" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />
@@ -24264,6 +24271,14 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="40332b" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="c134d1" />
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
       </value>
     </option>
   </attributes>
