@@ -4,7 +4,7 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-10-24T13:41:23</property>
+    <property name="modified">2019-10-24T16:25:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -26,7 +26,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d1cf9" />
+        <option name="BACKGROUND" value="292a88" />
         <option name="EFFECT_COLOR" value="949600" />
         <option name="ERROR_STRIPE_COLOR" value="a53038" />
       </value>
