@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="example1" type="Images" />
+      <mapping pattern="ignore" type="Git exclude file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="todo" approved="true" type="Markdown" />
     </extensionMap>
   </component>
 </application>
