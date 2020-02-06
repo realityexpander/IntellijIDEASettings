@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="ignore" type="Git exclude file" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <removed_mapping ext="todo" approved="true" type="Markdown" />
-    </extensionMap>
-  </component>
-</application>
