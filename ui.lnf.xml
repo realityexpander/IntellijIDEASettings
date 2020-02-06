@@ -1,0 +1,8 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>
