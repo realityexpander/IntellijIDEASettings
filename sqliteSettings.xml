@@ -1,0 +1,5 @@
+<application>
+  <component name="SqliteSettings">
+    <option name="databaseFolderPath" value="$USER_HOME$/Desktop/db1" />
+  </component>
+</application>
