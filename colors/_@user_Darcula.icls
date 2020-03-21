@@ -4,16 +4,22 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-03-04T20:06:46</property>
+    <property name="modified">2020-03-21T12:38:29</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="83a0d" />
     <option name="SELECTION_BACKGROUND" value="c17b1" />
   </colors>
   <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="dbdbdb" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff1312" />
@@ -36,6 +42,21 @@
       <value>
         <option name="FOREGROUND" value="a600" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbb00" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ac954b" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
