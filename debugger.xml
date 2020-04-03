@@ -81,9 +81,7 @@
     <data-views>
       <show-values-inline>false</show-values-inline>
     </data-views>
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
