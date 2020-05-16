@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="playTest" description="PLay test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Downloads/slowcat.sh" />
+      <option name="PARAMETERS" value="monkey.vt.txt" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+    </exec>
+  </tool>
+</toolSet>

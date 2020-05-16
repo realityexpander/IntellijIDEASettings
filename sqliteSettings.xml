@@ -1,0 +1,6 @@
+<application>
+  <component name="SqliteSettings">
+    <option name="openResultsInNewTab" value="true" />
+    <option name="databaseFolderPath" value="$USER_HOME$/Desktop/db1" />
+  </component>
+</application>

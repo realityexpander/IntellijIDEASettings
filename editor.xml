@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_INFERRED_ANNOTATIONS_INLINE" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code Light" />
     <option name="LINE_SPACING" value="0.7" />
@@ -13,8 +17,8 @@
     <pattern icon="important" pattern="\btodo-chris\b.*" />
     <pattern pattern="\btodo-jim\b.*" />
     <filter name="Not for me">
-      <pattern index="2" />
       <pattern index="0" />
+      <pattern index="2" />
     </filter>
     <filter name="Mine only">
       <pattern index="1" />
