@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="properies" type="PLAIN_TEXT" />
+      <mapping pattern="Organizer-db" type="SQLite" />
       <removed_mapping ext="todo" approved="true" type="Markdown" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
