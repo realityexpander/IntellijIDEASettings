@@ -4,7 +4,7 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-06-17T16:11:44</property>
+    <property name="modified">2020-06-17T16:44:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
@@ -24368,7 +24368,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="242424" />
+        <option name="BACKGROUND" value="171717" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
