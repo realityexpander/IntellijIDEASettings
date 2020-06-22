@@ -4,7 +4,7 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-06-17T16:44:28</property>
+    <property name="modified">2020-06-22T16:53:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Meslo LG S for Powerline" />
@@ -86,27 +86,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3a3a2c" />
+        <option name="BACKGROUND" value="27271a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="313a31" />
+        <option name="BACKGROUND" value="1e271e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3a313a" />
+        <option name="BACKGROUND" value="271e27" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2e3939" />
+        <option name="BACKGROUND" value="1b2626" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="452828" />
+        <option name="BACKGROUND" value="371a1a" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
