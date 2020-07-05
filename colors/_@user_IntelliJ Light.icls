@@ -3,7 +3,7 @@
     <property name="created">2020-05-23T23:48:20</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.0.9</property>
-    <property name="modified">2020-07-05T10:04:45</property>
+    <property name="modified">2020-07-05T12:37:10</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -21,7 +21,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="74118c" />
@@ -37,8 +37,8 @@
         <option name="FOREGROUND" value="800000" />
       </value>
     </option>
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="174ad4" />
