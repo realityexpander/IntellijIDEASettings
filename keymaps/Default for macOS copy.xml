@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
