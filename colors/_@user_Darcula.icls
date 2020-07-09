@@ -4,12 +4,13 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-07-08T15:12:02</property>
+    <property name="modified">2020-07-09T16:21:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="0.6" />
+  <option name="CONSOLE_LINE_SPACING" value="0.7" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="SELECTION_BACKGROUND" value="c17b1" />
@@ -22,7 +23,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff1312" />
+        <option name="FOREGROUND" value="ff3c3f" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="94000f" />
         <option name="EFFECT_TYPE" value="1" />
@@ -41,7 +42,7 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="a600" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -61,7 +62,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="e2ea5f" />
+        <option name="FOREGROUND" value="f7ff65" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -134,6 +135,11 @@
       <value>
         <option name="FOREGROUND" value="fff66d" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff3a41" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_TEXT_CODE_TEXT">
