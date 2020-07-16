@@ -5,11 +5,13 @@
       <blacklist language="Groovy" />
       <blacklist language="Kotlin">
         <added pattern="setLoadingCompleted(localThis)" />
+        <added pattern="kotlin.Triple(first,second,third)" />
       </blacklist>
     </blacklists>
     <option id="SHOW_PROPERTY_HINT" value="true" />
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+    <option id="SHOW_SUSPENDING_CALL" value="true" />
   </component>
 </application>
