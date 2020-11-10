@@ -7,5 +7,6 @@
     <entry key="ide.tooltip.initialDelay" value="812" />
     <entry key="analyze.exceptions.on.the.fly" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="external.system.auto.import.disabled" value="true" />
   </component>
 </application>
