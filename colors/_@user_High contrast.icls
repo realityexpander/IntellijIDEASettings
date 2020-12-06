@@ -1,14 +1,15 @@
-<scheme name="_@user_High сontrast" version="142" parent_scheme="Darcula">
+<scheme name="_@user_High contrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-05-23T23:48:20</property>
+    <property name="created">2020-12-06T10:11:57</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.1.0.9</property>
+    <property name="ideVersion">4.2.0.17</property>
     <property name="modified">2020-12-06T10:13:29</property>
-    <property name="originalScheme">High сontrast</property>
+    <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="9924" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
+    <option name="ActionButton.iconTextForeground" value="ffffff" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
@@ -66,7 +67,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -607,6 +608,7 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LESS_VARIABLE">
       <value />
     </option>
