@@ -4,14 +4,16 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-12-05T16:25:25</property>
+    <property name="modified">2020-12-10T17:26:21</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.7" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="d12c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="MODIFIED_LINES_COLOR" value="e7ef63" />
     <option name="SELECTION_BACKGROUND" value="c17b1" />
   </colors>
   <attributes>
