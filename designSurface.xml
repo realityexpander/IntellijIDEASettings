@@ -2,7 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../Dropbox (Personal)/My Mac (Chriss-MBP.attlocal.net)/Desktop/dev/android/app/src/main/res/layout/person_fields_header_row.xml" value="0.18333333333333332" />
         <entry key="../../../Dropbox (Personal)/My Mac (Chriss-MBP.attlocal.net)/Desktop/dev/android/app/src/main/res/layout/person_fields_row.xml" value="0.18333333333333332" />
+        <entry key="../../../Dropbox (Personal)/My Mac (Chriss-MBP.attlocal.net)/Desktop/dev/android/app/src/main/res/layout/person_info_fragment.xml" value="0.18333333333333332" />
       </map>
     </option>
   </component>
