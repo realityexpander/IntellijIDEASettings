@@ -9,85 +9,33 @@
     <option name="languageName" value="JAVA" />
   </component>
   <component name="LessonStateBase">
-    <option name="myMap">
+    <option name="map">
       <map>
-        <entry key="Actions" value="NOT_PASSED" />
-        <entry key="Basic Completion" value="PASSED" />
-        <entry key="Class Search" value="NOT_PASSED" />
-        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
-        <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
-        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
-        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
-        <entry key="Collapse" value="NOT_PASSED" />
-        <entry key="Comment Line" value="NOT_PASSED" />
-        <entry key="Completion with Tab" value="PASSED" />
-        <entry key="Completions.BasicCompletion" value="PASSED" />
-        <entry key="Completions.CompletionwithTab" value="PASSED" />
-        <entry key="Completions.SmartTypeCompletion" value="PASSED" />
-        <entry key="Completions.StatementCompletion" value="PASSED" />
-        <entry key="Declaration and usages" value="NOT_PASSED" />
-        <entry key="Duplicate" value="NOT_PASSED" />
-        <entry key="EditorBasics.Collapse" value="NOT_PASSED" />
-        <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
-        <entry key="EditorBasics.DeleteLine" value="NOT_PASSED" />
-        <entry key="EditorBasics.Duplicate" value="NOT_PASSED" />
-        <entry key="EditorBasics.Move" value="NOT_PASSED" />
-        <entry key="EditorBasics.MultipleSelections" value="NOT_PASSED" />
-        <entry key="EditorBasics.Selection" value="NOT_PASSED" />
-        <entry key="Extract Method" value="NOT_PASSED" />
-        <entry key="Extract Variable" value="NOT_PASSED" />
-        <entry key="File structure" value="NOT_PASSED" />
-        <entry key="GopherCon.CodeFormatting" value="NOT_PASSED" />
-        <entry key="GopherCon.CommentLine" value="NOT_PASSED" />
-        <entry key="GopherCon.ExtractFunction/Method" value="NOT_PASSED" />
-        <entry key="GopherCon.ExtractVariable" value="NOT_PASSED" />
-        <entry key="GopherCon.FormatStringArgument" value="NOT_PASSED" />
-        <entry key="GopherCon.GoFmt" value="NOT_PASSED" />
-        <entry key="GopherCon.ImplementMissingMethods" value="NOT_PASSED" />
-        <entry key="GopherCon.Inline" value="NOT_PASSED" />
-        <entry key="GopherCon.Rename" value="NOT_PASSED" />
-        <entry key="Hippie Completion" value="NOT_PASSED" />
-        <entry key="Method-Like Function Completion" value="NOT_PASSED" />
-        <entry key="Move" value="NOT_PASSED" />
-        <entry key="Multiple Selections" value="NOT_PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
-        <entry key="Navigation.FileStructure" value="PASSED" />
-        <entry key="Navigation.JumptoSource" value="PASSED" />
-        <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
-        <entry key="Postfix Completion" value="PASSED" />
-        <entry key="Refactoring Menu" value="NOT_PASSED" />
-        <entry key="Refactorings.ExtractMethod" value="PASSED" />
-        <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
-        <entry key="Refactorings.RefactoringBasics" value="PASSED" />
-        <entry key="Refactorings.Rename" value="PASSED" />
-        <entry key="Rename" value="NOT_PASSED" />
-        <entry key="Select" value="NOT_PASSED" />
-        <entry key="Smart Type Completion" value="PASSED" />
-        <entry key="Statement Completion" value="PASSED" />
-        <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
-        <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.generate" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.overrideimplement" value="NOT_PASSED" />
-        <entry key="swift.codegeneration.quickfixes" value="NOT_PASSED" />
-        <entry key="swift.completions.basiccompletion" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.collapse" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.commentline" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.deleteline" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.duplicate" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.move" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.multipleselections" value="NOT_PASSED" />
-        <entry key="swift.editorbasics.selection" value="NOT_PASSED" />
-        <entry key="swift.navigation.code" value="NOT_PASSED" />
-        <entry key="swift.navigation.search" value="NOT_PASSED" />
-        <entry key="swift.navigation.toolwindows" value="NOT_PASSED" />
-        <entry key="swift.rdt.debug" value="NOT_PASSED" />
-        <entry key="swift.rdt.run" value="NOT_PASSED" />
-        <entry key="swift.rdt.test" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.closure" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
-        <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
-        <entry key="swift.refactorings.rename" value="NOT_PASSED" />
+        <entry key="actions" value="NOT_PASSED" />
+        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
+        <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
+        <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
+        <entry key="collapse" value="NOT_PASSED" />
+        <entry key="comment line" value="NOT_PASSED" />
+        <entry key="completion with tab" value="NOT_PASSED" />
+        <entry key="duplicate" value="NOT_PASSED" />
+        <entry key="move" value="NOT_PASSED" />
+        <entry key="multiple selections" value="NOT_PASSED" />
+        <entry key="navigation.declaration/implementation" value="NOT_PASSED" />
+        <entry key="navigation.filestructure" value="NOT_PASSED" />
+        <entry key="navigation.jumptosource" value="NOT_PASSED" />
+        <entry key="navigation.next/previousoccurrences" value="NOT_PASSED" />
+        <entry key="postfix completion" value="NOT_PASSED" />
+        <entry key="refactorings.extractmethod" value="NOT_PASSED" />
+        <entry key="refactorings.extractvariable/field" value="NOT_PASSED" />
+        <entry key="refactorings.refactoringbasics" value="NOT_PASSED" />
+        <entry key="refactorings.rename" value="NOT_PASSED" />
+        <entry key="select" value="NOT_PASSED" />
+        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="statement completion" value="NOT_PASSED" />
+        <entry key="surround and unwrap" value="NOT_PASSED" />
       </map>
     </option>
   </component>
