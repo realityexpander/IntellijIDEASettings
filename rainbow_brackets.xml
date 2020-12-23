@@ -1,7 +1,6 @@
 <application>
   <component name="RainbowSettings">
-    <option name="customNotifyShowed" value="true" />
     <option name="rainbowEnabled" value="false" />
-    <option name="version" value="5.34" />
+    <option name="version" value="6.12.1" />
   </component>
 </application>
