@@ -3,7 +3,7 @@
     <property name="created">2020-12-06T10:11:57</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.2.0.17</property>
-    <property name="modified">2020-12-26T21:41:41</property>
+    <property name="modified">2020-12-28T12:01:06</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -680,7 +680,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value />
     </option>
