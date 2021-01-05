@@ -17,6 +17,10 @@
           <option name="url" value="https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MrBean355/youtube-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
