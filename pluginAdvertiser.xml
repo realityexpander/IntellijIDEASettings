@@ -155,6 +155,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cvp">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DevKit" />
+              <option name="myPluginName" value="Plugin DevKit" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -272,6 +281,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.form">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.uiDesigner" />
+              <option name="myPluginName" value="UI Designer" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fs">
           <value>
             <plugin>
@@ -376,6 +394,15 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hgignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="hg4idea" />
+              <option name="myPluginName" value="Mercurial" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -673,6 +700,7 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
               <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -681,6 +709,7 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
               <option name="myPluginName" value="Markdown" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -824,6 +853,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pom">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1242,6 +1280,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".classpath">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.eclipse" />
+              <option name="myPluginName" value="Eclipse Interoperability" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".editorconfig">
           <value>
             <plugin>
@@ -1256,6 +1303,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".project">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.eclipse" />
+              <option name="myPluginName" value="Eclipse Interoperability" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1301,6 +1357,15 @@
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="maven.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.idea.maven" />
+              <option name="myPluginName" value="Maven" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1352,6 +1417,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Plugin" pluginName="Plugin DevKit" pluginId="DevKit" />
+                    </value>
+                  </entry>
+                  <entry key="AndroidJUnit">
+                    <value>
+                      <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
                   <entry key="AndroidRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" />
@@ -1360,6 +1435,11 @@
                   <entry key="AndroidTestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Android Instrumented Tests" pluginName="Android" pluginId="org.jetbrains.android" />
+                    </value>
+                  </entry>
+                  <entry key="AntRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Ant Target" pluginName="Ant" pluginId="AntSupport" />
                     </value>
                   </entry>
                   <entry key="AppEngineRunConfiguration">
@@ -1417,6 +1497,11 @@
                       <FeaturePluginData displayName="Kotlin script" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
+                  <entry key="MavenRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
+                    </value>
+                  </entry>
                   <entry key="Remote">
                     <value>
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
@@ -1430,6 +1515,11 @@
                   <entry key="TestNG">
                     <value>
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" />
+                    </value>
+                  </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
                 </map>
@@ -1489,12 +1579,22 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android Application" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="jar">
                     <value>
                       <FeaturePluginData displayName="JAR" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="javafx">
+                    <value>
+                      <FeaturePluginData displayName="JavaFx application" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
+                    </value>
+                  </entry>
+                  <entry key="javafx-preloader">
+                    <value>
+                      <FeaturePluginData displayName="JavaFx preloader" pluginName="JavaFX" pluginId="org.jetbrains.plugins.javaFX" />
                     </value>
                   </entry>
                   <entry key="plain">
