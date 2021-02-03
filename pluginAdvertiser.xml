@@ -700,7 +700,6 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
               <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -709,7 +708,6 @@
             <plugin>
               <option name="myPluginId" value="org.intellij.plugins.markdown" />
               <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1579,7 +1577,7 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android Application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="jar">
