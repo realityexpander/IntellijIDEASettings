@@ -1,11 +1,18 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAppInspectionToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateBuildVariantsToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateDatabaseInspectorToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -16,7 +23,9 @@
     <keyboard-shortcut first-keystroke="shift alt enter" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
