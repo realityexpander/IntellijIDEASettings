@@ -86,8 +86,8 @@
         <entry key="*.asm">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
+              <option name="myPluginId" value="com.android.tools.ndk" />
+              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -152,6 +152,14 @@
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.csv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
+              <option name="myPluginName" value="Rainbow CSV" />
             </plugin>
           </value>
         </entry>
@@ -230,8 +238,8 @@
         <entry key="*.doxygen">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
+              <option name="myPluginId" value="com.android.tools.ndk" />
+              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -281,6 +289,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.fnc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.form">
           <value>
             <plugin>
@@ -320,8 +336,8 @@
         <entry key="*.gdbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.base" />
-              <option name="myPluginName" value="CIDR Base" />
+              <option name="myPluginId" value="com.android.tools.ndk" />
+              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -419,8 +435,8 @@
         <entry key="*.hmap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
+              <option name="myPluginId" value="com.android.tools.ndk" />
+              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -689,8 +705,8 @@
         <entry key="*.lldbcommandsfiletypeextension">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.base" />
-              <option name="myPluginName" value="CIDR Base" />
+              <option name="myPluginId" value="com.android.tools.ndk" />
+              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -741,8 +757,8 @@
         <entry key="*.modulemap">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.cidr.lang" />
-              <option name="myPluginName" value="C/C++ Language Support" />
+              <option name="myPluginId" value="com.android.tools.ndk" />
+              <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -837,6 +853,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pkb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pkg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pks">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.plsql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -891,6 +939,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.pro">
           <value>
             <plugin>
@@ -915,6 +971,14 @@
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1026,6 +1090,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.sql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.svg">
           <value>
             <plugin>
@@ -1080,12 +1152,44 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tpb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tpe">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trace">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.trg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1113,6 +1217,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1460,6 +1572,16 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="DBNMethodRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
+                  <entry key="DBNStatementRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
                   <entry key="GradleRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Gradle" pluginName="Gradle" pluginId="com.intellij.gradle" />
@@ -1582,7 +1704,7 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android Application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="jar">
