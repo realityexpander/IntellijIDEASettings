@@ -3,7 +3,7 @@
     <property name="created">2020-12-06T10:11:57</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.2.0.17</property>
-    <property name="modified">2021-03-08T15:25:41</property>
+    <property name="modified">2021-03-11T15:20:49</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -247,8 +247,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="cccccc" />
@@ -680,7 +680,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value />
     </option>
