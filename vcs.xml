@@ -69,6 +69,10 @@
           <option name="url" value="https://github.com/googlecodelabs/android-compose-codelabs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Giphy/giphy-android-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dropbox (Personal)/My Mac (Chriss-MBP.attlocal.net)/Desktop/dev" />
