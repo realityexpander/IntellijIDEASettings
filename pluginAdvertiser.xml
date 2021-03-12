@@ -714,18 +714,16 @@
         <entry key="*.markdown">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
         <entry key="*.md">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.plugins.markdown" />
-              <option name="myPluginName" value="Markdown" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
@@ -744,6 +742,14 @@
               <option name="myPluginId" value="com.intellij.java" />
               <option name="myPluginName" value="Java" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mkd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.vladsch.idea.multimarkdown" />
+              <option name="myPluginName" value="Markdown Navigator Enhanced" />
             </plugin>
           </value>
         </entry>
