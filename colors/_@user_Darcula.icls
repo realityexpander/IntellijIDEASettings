@@ -4,7 +4,7 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-03-19T21:58:57</property>
+    <property name="modified">2021-03-20T17:11:22</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
@@ -626,13 +626,13 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.HEADER_TEXT_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3443,19 +3443,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3300" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3300" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3300" />
       </value>
     </option>
@@ -6059,19 +6059,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3333" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3333" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3333" />
       </value>
     </option>
@@ -8675,19 +8675,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="404000" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="404000" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="404000" />
       </value>
     </option>
@@ -11287,17 +11287,17 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_BOLD_MARKER">
@@ -13783,19 +13783,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="4500" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="4500" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="4500" />
       </value>
     </option>
@@ -16399,19 +16399,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3838" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3838" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="3838" />
       </value>
     </option>
@@ -19015,19 +19015,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="454500" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="454500" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="454500" />
       </value>
     </option>
@@ -21631,19 +21631,19 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BLOCK_COMMENT_CLOSE">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="383838" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BLOCK_COMMENT_OPEN">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="383838" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_BLOCK_QUOTE_MARKER">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="7a7a7a" />
         <option name="BACKGROUND" value="383838" />
       </value>
     </option>
