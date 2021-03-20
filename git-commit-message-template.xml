@@ -1,6 +1,0 @@
-<application>
-  <component name="git-commit-message-template">
-    <option name="branchName" value="SENATE-42-typing-indicator" />
-    <option name="suffix" value=" feat(ui): " />
-  </component>
-</application>
