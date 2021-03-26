@@ -4,7 +4,7 @@
     <property name="created">2019-10-16T12:57:41</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-03-20T17:11:22</property>
+    <property name="modified">2021-03-26T01:19:02</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
@@ -24419,7 +24419,7 @@
         <option name="BACKGROUND" value="1714e2" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="949600" />
-        <option name="ERROR_STRIPE_COLOR" value="a53038" />
+        <option name="ERROR_STRIPE_COLOR" value="e2e506" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
